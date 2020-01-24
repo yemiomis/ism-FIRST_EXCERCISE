@@ -55,13 +55,13 @@ namespace Project01_Introduction
             // Eg. a=3, b=4, c=5. Area = 6
 
             //Write your code here
-            double a;
-            double b;
-            double c ;
+            double a=0;
+            double b=0;
+            double c =0;
             double s;
             double Area = 0;
-             s = (a + b + c) / 2;
-            Area = Math.square.s;
+             s = (a+b+c)/2;
+            Area = Math.Sqrt(s);
             Debug.WriteLine("Area is" + Area);
 
 
